@@ -1,7 +1,7 @@
 package main
 
 import (
-	. "./AxmorChat"
+	. "./Chat"
 	"bufio"
 	"fmt"
 	"log"
